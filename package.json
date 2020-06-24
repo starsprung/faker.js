@@ -1,9 +1,10 @@
 {
   "name": "faker",
   "description": "Generate massive amounts of fake contextual data",
-  "version": "4.1.0",
+  "version": "1.0.0",
   "contributors": [
-    "Marak Squires <marak.squires@gmail.com>"
+    "Marak Squires <marak.squires@gmail.com>",
+    "Shaun Starsprung <s@starsprung.com>"
   ],
   "repository": {
     "type": "git",
